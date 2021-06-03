@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals to the adventurers for lands in Ireland together with the explanations thereupon.</title>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28468</idno><idno type="EEBO-CITATION">11247622</idno>
+  <idno type="VID">204992</idno>
+  <idno type="EEBO-PROQUEST">2240876947</idno>
+  
+            <idno type="STC">Wing P3770</idno>
+            <idno type="OCLC">11247622</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28468)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204992)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1449:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals to the adventurers for lands in Ireland together with the explanations thereupon.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb for Richard Deacon ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1649-1660.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="geographic_name">Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204992:1"/>
+            <pb facs="tcp:204992:1"/>
+            <p>PROPOSALS TO THE Adventurers for Lands IN IRELAND; TOGETHER With the Explanations thereupon.</p>
+            <figure>
+               <figDesc>depiction of a thistle, used as a printer's device(?)</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Newcomb</hi> for <hi>Richard Deacon</hi> in Fleetstreet, Clerk to the Committee of the said Adventurers. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals_for_land_venturers_in_Ireland">
+            <pb facs="tcp:204992:2"/>
+            <pb n="3" facs="tcp:204992:2"/>
+            <head>PROPOSALS TO THE Adventurers for Land IN IRELAND.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners taking into con<g ref="char:EOLhyphen"/>sideration the present confused state of the Adventurers satisfaction in <hi>Ireland;</hi> and in order to remedy the same, have (in pursuance of your Lordships Letter, bearing date the Seventh day of <hi>May,</hi> 1658. and of the several Acts and Ordinances of Par<g ref="char:EOLhyphen"/>liament thereunto relating) caused several things which were on their own parts to be done, to be forthwith put in hand; and have also here col<g ref="char:EOLhyphen"/>lected such other things, as they hum<g ref="char:EOLhyphen"/>bly desire may be done by your Lord<g ref="char:EOLhyphen"/>ships: Both which, they humbly represent in the several particulars fol<g ref="char:EOLhyphen"/>lowing, <hi>viz.</hi>
+            </p>
+            <p n="1">I. YOur Petitioners have made a compleat Book, to be signed by the Committee of Claims, and themselves, or their appoint<g ref="char:EOLhyphen"/>ments respectively, containing the Debt of every Adventurer, whose Certificate for the same hath been stated unto this day, with the name of the Barony, wherein the same ought (if it may be) to be satisfied: As also the Order of Priority, wherein the said satisfaction ought to be made.</p>
+            <p n="2">II. They have desired the Committee for Claims, to cause an Esti<g ref="char:EOLhyphen"/>mate to be made of such Debts, for which no Certificates have been yet issued, which (as they probably conceive) will be hereafter claimed and allowed.</p>
+            <p n="3">III. In case no Land be put upon the Adventurers as part of their measure in satisfaction, but such as are profitable and forfeited, with all other Priviledges and Advantages according to the Acts and Ordinances of Parliament, then this Committee are of opinion, That the general Survey and Admeasurement last taken by your Lordships, under the over<g ref="char:EOLhyphen"/>sight
+<pb n="4" facs="tcp:204992:3"/>of your Surveyor-General and Dr. <hi>William Petty</hi> be submitted to, and not otherwise.</p>
+            <p n="4">IV. They desire that such Books may be made as Dr. <hi>Petty</hi> hath shewed them Forms and Patterns of (by him called Neat-Books) con<g ref="char:EOLhyphen"/>taining the names of the Lands surveyed, as forfeited, with the number of the profitable and unprofitable Acres, both according to your Lord<g ref="char:EOLhyphen"/>ships Survey, and the private Survey taken by the Adventurers (where the said Adventurers Survey can be had;) as also the names of the Lands subducted out of the same, either upon the accompt of Decrees for con<g ref="char:EOLhyphen"/>stant good affection, <hi>&amp;c.</hi> Compositions, private Grants and Incumbran<g ref="char:EOLhyphen"/>ces of any kinde whatsoever, and consequently containing an accompt of what Lands are Neat and clearly disposeable for the Adventurers satis<g ref="char:EOLhyphen"/>faction; together with an accompt of what Lands the Adventurers have assumed of themselves, and by their own particular Survey and Rules of Distribution in satisfaction of their respective Debts; and withal, an ac<g ref="char:EOLhyphen"/>compt how the Lands now found, upon a more clear view disposeable, are to be distributed pursuant to the more perfect Rule of distribution hereafter to be framed, in pursuance of this present Declaration and Peti<g ref="char:EOLhyphen"/>tion. And lastly, of the final distribution and settlement of all the said Lands, according to the former or future ways of distribution, according to such expedients of reconciliation and private Agreements, which may happen to cause alterations in either of the said Methods of disposal, de<g ref="char:EOLhyphen"/>siring your Lordships to contribute whatsoever is necessary on your Lord<g ref="char:EOLhyphen"/>ships parts, as Maps, &amp;c. towards the making and compleating these said Books and Accompts.</p>
+            <p n="5">V. When the Debt and Credit of the Adventurers is ascertained in manner aforesaid, both in general, and also upon every particular Province, County, and Barony: And that thereupon an accompt is made, expres<g ref="char:EOLhyphen"/>sing what Baronies are deficient, and what have a <hi>surplus,</hi> they desire and propound, That in order to repair the one with the other impartially, and according to all or any <hi>Provisoes</hi> of the Act of Parliament in that be<g ref="char:EOLhyphen"/>half made; That it may be distinctly determined by Lot, which Pro<g ref="char:EOLhyphen"/>vince, County, and Barony, shall succeed each other; That thereupon two distinct Lists, the one of all the deficient Baronies, the other of all the Surplusage Baronies, may be drawn forth; and that the Baronies contained in each, may be placed in such Order of Priority, as by the said Lot is or shall be determined. And it is further desired and pro<g ref="char:EOLhyphen"/>pounded, That all the Baronies of the County of <hi>Lowth,</hi> except the Ba<g ref="char:EOLhyphen"/>rony of <hi>Atherdee,</hi> be added to the aforesaid List of Redundant Ba<g ref="char:EOLhyphen"/>ronies, each of them in such Order of Sequence, as by Lot shall be deter<g ref="char:EOLhyphen"/>mined.</p>
+            <p n="6">VI. It is humbly desired and propounded, That if any Surplusage shall appear upon the aforesaid List of Redundant Baronies (the County of <hi>Lowth</hi> being so comprehended) the same may be cut off upon the last Baronies of the said List: And that such general Surplusage may be withheld from disposure to the Army, for some reasonable time to be agreed upon; wherein your Petitioners may make out what real damages they have received by Errors in your Lordships said Survey, which they have conditionally submitted unto as aforesaid, either as to the quantity, quality, or title of the Lands by them accepted, according to the said Survey; to the end they may have due reparation for the same out
+<pb n="5" facs="tcp:204992:3"/>of the reserved Surplusage-Lands, as to your Lordships shall seem just.</p>
+            <p n="7">VII. The satisfaction of the Adventurers as to the whole, being thus regulated, It is further humbly proposed as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. They desire that the Deficient Baronies may be repaired out of the Redundant Baronies one after another, according to the <hi>Paralelism</hi> of the two above mentioned Lists of Deficient and Redundant Baronies, (that is to say) That the first Deficient Baronies may be repaired out of the first Redundant Baronies, and so downwards, until all the Deficient Baronies be compleatly satisfied out of so many of the first Redundant Baronies (as they stand in the Order of the abovesaid List) as shall suffice for the same.</p>
+            <p n="2">2. Forasmuch as there hath been already made by the Committee of Adventurers, several Rules for distributing of Baronies, to the particular Allottees and Individual persons contained in them. Your Petitioners do humbly explain the cheif of the said Rules as followeth, <hi>viz.</hi>
+            </p>
+            <p>Where it is said, That a Barony shall be divided into Quarters, it is to be understood, that all Lands, both profitable and unprofitable, for<g ref="char:EOLhyphen"/>feited and not forfeited, comprehended within the true Out-line of every such Barony, be divided into four equal parts (as near as may be) whether the same be done by Lines of different Positions; as by the North and South Lines, and East and West Lines together, or by Parallel Lines and such as are of the same Position, whether they bear North and South, or East and West, or upon any other point onely.</p>
+            <p>And whereas the said Divisional Lines being intended to be straight, may probably cut many Denominations into two parts. Your Petitioners desiring that intire Denominations may be preserved as much as possible, do explain themselves, That they intend, that on which side soever of the aforesaid Quartering Line, the greatest part of any Denomination falleth, That the whole Denomination shall be reputed and deemed to lie intirely on that side of the said Quartering Line; both which Explanations your Petitioners humbly desire may be applied to the matter of Subquartering where any such thing hath been agreed upon.</p>
+            <p n="3">3. And to the third, there may be certain Rules, where such Rules are not already for passing from the first Denomination (which soever the same be) to the Second, Third, Fourth, Fifth, <hi>&amp;c.</hi> Your Petitioners de<g ref="char:EOLhyphen"/>sire that the same may be for the future determined, and to that end they propound, That every Barony being duly quartered by Rule, or the mu<g ref="char:EOLhyphen"/>tual consent of the Major part of the Adventurers concerned therein as aforesaid, may be reduced (as to the several Denominations comprehend<g ref="char:EOLhyphen"/>ed therein) into one continued File or String of Contiguity, so as may be certainly known from the first to the last disposable Denomination, or part of Denomination, in what Order of Priority each of them shall be disposed of. And this we desire may be done by three several Artists (from whom the knowledge of the Lists of Priority of Lots contained in the Debt Books, may be carefully withheld) and that they make their said Strings of Contiguity in the presence of some persons to be intrusted for that purpose; and that when three such Strings are so made, that one of them be chosen by Lot, as the onely Rule to be observed in the matter of Succession.</p>
+            <p n="4">
+               <pb n="6" facs="tcp:204992:4"/> 4. They further propound, That the persons imployed in making the said Files of Contiguity, do determine by what Line every Town-Land shall be cut, in case there be occasion thereof, for making up a just number of Acres answering to each Lot or Debt.</p>
+            <p>Now although it be wisht, That the above-mentioned Rules of Di<g ref="char:EOLhyphen"/>stribution (as being supposed perfect Rules) had been followed in the Ad<g ref="char:EOLhyphen"/>venturers former receiving of Lands for satisfaction, yet hoping that the proceedings of many such Adventurers (though made otherwise) have not been either contrary to their own Rules, or injurious to their Fellow-Concernees. Your Petitioners humbly propound, That Distinctions may be made between such of the said former Distributions as are fit to be continued from such as are not; in order whereunto, they offer that Distribution be made according to the above-mentioned supposed perfect Rule forthwith, by such Instruments as your Lordships shall think fit, together with a like number (to be also approved by your Lordships) such as shall be humbly recommended by your Petitioners. And that the said Distribution being so made, be forthwith sealed up and kept private un<g ref="char:EOLhyphen"/>til Examination be had of the aforesaid former proceedings of the Ad<g ref="char:EOLhyphen"/>venturers; to which end it is humbly propounded,</p>
+            <p>First, That a person or persons be appointed at <hi>London</hi> and at <hi>Dublin,</hi> both to receive from all such Adventurers, who are already possessed of Lands, for their satisfaction, an accompt of what Lands, by name, they are so possessed of, with an intimation of their desire to continue in the same, in case no injurious irregularity can be made appear to have been practised by them in acquiring the said satisfaction.</p>
+            <p>Secondly, Your Petitioners think fit publick notice being given in Churches, in <hi>Diurnals,</hi> and by all other convenient ways, both in <hi>England</hi> and <hi>Ireland,</hi> That such accompts or desires ought to be brought unto the persons which shall be nominated as aforesaid; That such Adventu<g ref="char:EOLhyphen"/>rers as do not bring in the said accompts or desires within two moneths after the above-mentioned supposed perfect Rule is declared to be sealed up, shall not have any benefit of their said former received Lands or Pos<g ref="char:EOLhyphen"/>sessions, not being according to the said Rule: And withal, that all Sur<g ref="char:EOLhyphen"/>veys made, at the charge of the Adventurers, which shall not be brought in and exhibited within the said two moneths time, either at <hi>London</hi> or <hi>Dublin,</hi> shall be declared null; and that the Distributions made upon them, be consequently declared null and void likewise.</p>
+            <p>Thirdly, They humbly propound, That the person or persons to be appointed at <hi>London</hi> to receive the said Surveys, (and the above-men<g ref="char:EOLhyphen"/>tioned desires of particular Adventurers, to continue in their satisfactions formerly received) do transmit the said Surveys and desires to the above-mentioned Committee at <hi>Dublin,</hi> consisting both of your Lordships In<g ref="char:EOLhyphen"/>struments, and of those other persons recommended by the Adventurers as aforesaid. To the end, that the reasonableness of the said desires, as also of such other desires as shall be exhibited at <hi>Dublin</hi> may be examined; in order whereunto your Petitioners humbly propound,</p>
+            <p n="1">1. That the Distribution to all persons who are concerned in a Ba<g ref="char:EOLhyphen"/>rony, whereof the Survey is not produced as aforesaid be null.</p>
+            <p n="2">2. That although the Survey be produced, yet if the Barony-Plot (whereby the Distribution of the said Barony hath been actually made) hath not been according to the appearing Out-line of the same, divided into
+<pb n="7" facs="tcp:204992:4"/>four parts, answerable to the four proportions or quarters of money re<g ref="char:EOLhyphen"/>spectively, which appear by the Book of Lots, to have been drawn up<g ref="char:EOLhyphen"/>on them: But that there is contained in one or more of the Quarters a<g ref="char:EOLhyphen"/>bove Fifteen <hi>per cent.</hi> more of less then there ought to be. Your Petiti<g ref="char:EOLhyphen"/>oners conceive that so gross a miscarriage in the Foundation of the Distri<g ref="char:EOLhyphen"/>bution, is a sufficient Reason why all the Distributions founded thereup<g ref="char:EOLhyphen"/>on shall be declared null.</p>
+            <p n="3">3. Where the States Survey maketh more disposable Acres in any Barony, then the private Survey exhibited by the Adventurers doth, (whether the same happen by the Adventurers omitting of certain parcels taken in by the State, or by reason difference in distinguishing the quality, or through difference in admeasurements (such difference in admeasure<g ref="char:EOLhyphen"/>ments not exceeding three <hi>per Centum,</hi> upon the profitable and forfeited Lands of the whole Barony) It is thought fit to avoid that necessity of imposing small scraps of Land upon some deficient Adventurers) That so much of the said Distribution be null, as is subsequent to the first irre<g ref="char:EOLhyphen"/>gularity; and that the above-mentioned Distribution made by the sup<g ref="char:EOLhyphen"/>posed perfect Rule be adhered unto in lieu thereof: Provided, That those who are removed by vertue hereof, shall be allowed the value of their necessary improvements, as the same shall be set, by indifferent persons to be chosen for that purpose.</p>
+            <p n="4">4. They humbly propound, that in all other Cases, the Distribution made by the Adventurers shall stand, unless in the particular Cases of In<g ref="char:EOLhyphen"/>dividual persons hereafter named, <hi>viz;</hi>
+            </p>
+            <p n="1">I. Where a satisfaction consisting of several denominations, is in length, from one extremity thereof to the other, more then triple the breadth of the same, (Provided that the Lines by which length and breadth are computed do cross one another at right Angles) except where the said proportion or satisfaction, as to the quantity, could not be set out otherwise, then in such disproportionable figure. And except such distribution be acquiessed in by all, or the major part of the contiguous Allottees, which kinde of acquiessence your Petitioners account a General Exception to all paticular irregularities; forasmuch as the same cannot be injurious, where all the major part of the persons concerned are con<g ref="char:EOLhyphen"/>tented, and do allow of the same.</p>
+            <p n="2">II. When in proceeding from a point of beginning according to any Line of progression, the subsequent denomination is either not contigu<g ref="char:EOLhyphen"/>ous to some of the preceding, or not most according to the said Line of progression. As for Example, if the point of beginning or entrance, be in the Denomination <hi>A,</hi> and that the Line of progression be from North to South, and the Denomination taken next after <hi>A,</hi> be <hi>B,</hi> your Petitioners do understand, that if there be any other Denomina<g ref="char:EOLhyphen"/>tion contiguous to <hi>A,</hi> whereof any part is more Northerly then any part of <hi>B,</hi> in such case the Denomination <hi>B</hi> is injuriously taken.</p>
+            <p n="3">III. If (to make up a Satisfaction for any Lot) more then two Deno<g ref="char:EOLhyphen"/>minations (by Denomination, being understood the disposable part of a Denomination) be cut, we conceive the same to be injurious.</p>
+            <p n="4">IV. If a Denomination be omitted by the first private Distribution, which is admitted by the supposed perfect List, all those Allottees, whose Proportions touch the same omitted parcel, shall be held guilty of that Omission; and if but one Allottees Proportion touch the same, as
+<pb n="8" facs="tcp:204992:5"/>aforesaid; Then the said Allottee, by reason of the said Omission is re<g ref="char:EOLhyphen"/>moveable, but if there be more then one in such case, one of them is to be chosen by Lot, who by removal is alone to suffer for the whole, Except it can be made appear, that at the time of the said Distribution, some Claim was entered upon the Publick Book of the Civil Survey, or that some order of Suspention from the Councel be produced which might be a Reason and Excuse for the said Omission.</p>
+            <p n="5">5. That all Possessions taken by Deficients of Surplusages in Lands, without Lots drawn for the special County, Barony, and Denomination, where such possessions are, or shall be, or without publication of the Allot<g ref="char:EOLhyphen"/>ments aforesaid, and freedom for all others in the like cases to the like Lots, be utterly void.</p>
+            <p>We further propound, that after the expiration of the two moneths appointed for bringing in the Surveys, and desires of continuing each man in his respective possession; that another time to be appointed for those who shall make the said desires, to prove that the Possessions were allowed unto them in the former Distribution, and withal to answer such charges of injurious irregularities which may be made against the same.</p>
+            <p>Having thus framed a supposed perfect Rule of Distribution, as also Rules whereby to reject some of the former Distributions totally; and withal, how to distinguish the designed and injurious irregularities com<g ref="char:EOLhyphen"/>mitted within other Distributions (although allowed of in general) and having propounded the persons by whom, and the places where this whole affair is to be transacted in its several parts respectively. It is lastly propounded, That all omitted Cases not reducible to the above Propo<g ref="char:EOLhyphen"/>sals; and that the interpretation of all Ambiguities upon the said Propo<g ref="char:EOLhyphen"/>sals themselves, be referred to the aforesaid Commissioners as such in whose determination your Petitioners are contented to acquiess.</p>
+            <p>Now although your Petitioners are not ignorant, that the right of making a Survey is in your Lordships; and that the Act of Parliament gives your Lordships clear power to decide Controversies between Ad<g ref="char:EOLhyphen"/>venturer and Adventurer: Nevertheless your Petitioners humbly desire, That out of a tender regard to the confusions wherein they are involved, and to the several repugnant Interests, which are or may be among them; that your Lordships would be pleased to exercise your said Authority (so far as may be without prejudice to the Publick) according to the above mentioned Advice, which by your Lordships favor and invitation, they have been imboldned in this manner to present.</p>
+         </div>
+         <div type="list_of_addenda_to_petition">
+            <pb n="9" facs="tcp:204992:5"/>
+            <list>
+               <head>Explanations, Amendments, and Additions, of the aforesaid Declaration and Petition.</head>
+               <item>
+                  <seg rend="decorInit">I</seg>N pursuance of your Lordships own favor and just endeavors, of preventing unnecessary Removals; and in consideration of your Petitioners readiness to sub<g ref="char:EOLhyphen"/>mit to your Lordships Survey; Your Petitioners de<g ref="char:EOLhyphen"/>sire that three <hi>per centum</hi> difference in Admeasure<g ref="char:EOLhyphen"/>ments between your Lordships Survey and the Ad<g ref="char:EOLhyphen"/>venturers be not taken notice of; <hi>viz,</hi> In such Cases where the Adventurers private Survey hath been already made use of, as to Distribution; and where no other cause appears for nulling the said Distribution, then the said difference in quantity: Your Petitioners pray, that such distributions be neither annulled, nor that any retrench<g ref="char:EOLhyphen"/>ment be made where the Adventurers Survey differeth not above three <hi>per centum</hi> from the States.</item>
+               <item>2. Your Petitioners humbly desire, That by the word Null, in the above Petition and Declaration, where it is said (that so much of the said Distribution be Null, as is subsequent to the first irregularity) shall not be intended to remove any person out of the Barony, if there be Land enough there for his satisfaction, but onely into his right and proper place within the same.</item>
+               <item>3. Your Petitioners further desire, that they may have the full benefit intended them by the several Acts of Parliament in the matter of Woods; And forasmuch as the latter Acts of Parliament seem (though in words on<g ref="char:EOLhyphen"/>ly, as your Petitioners hope) to be more hard towards the Adventurers, then the preceding Acts were upon which they lent their money. Your Petitioners desire that your Lordships, in tender consideration thereof, would at least allow them the full benefit, as aforesaid, of the said latter Acts according to the most favorable interpretation that the words of them will bear.</item>
+               <item>4. Although your Petitioners have already desired, that the agreement of the major part of the Parties concerned may be an universal Exception to Irregularities; yet they desire, for the further and more particular secu<g ref="char:EOLhyphen"/>rity of all those, who by such agreement have made their Distributions, Subdivisions and Settlements by parallel Lines, without regard to the for<g ref="char:EOLhyphen"/>mer distinctions by Plow-lands, Town-lands, <hi>&amp;c.</hi> That such Distributions by parallel Lines may stand, where other injurious, irregularities, and just causes of alteration are not found in such proceedings.</item>
+               <item>5. Whereas your Petitioners have by the third Article of their above Petition and Declaration submitted to your Lordships Survey, with con<g ref="char:EOLhyphen"/>dition that no Land be reckoned to them as satisfaction, which ought to be cast in over and above their measure; and forasmuch as several contro<g ref="char:EOLhyphen"/>versies
+<pb n="10" facs="tcp:204992:6"/>may arise thereupon, the decision whereof (if not made in some speedy and regular way) may prove a great cause of delay and vexation to your Petitioners: They therefore humbly pray, That where complaints of Error in the Survey, as to profitable Lands shall be made, that your Lordships will appoint the Clarks of the Council (upon application made unto them by the above Commissioners for regulation) to issue out such Commissions of course to the Sheriffs of the respective Counties for em<g ref="char:EOLhyphen"/>panelling Juries, reviewing of Lands, where the Complaints are, &amp;c. as may be sufficient for the ends above mentioned, and that the Determination of such wrongs, as also the Repairations of them (where there is cause) may be in the said Commissioners, according to the above Petition and Declaration.</item>
+               <item>6. And for the better ascertaining of Lands decreed away upon claims, or compounded for: That the said Commissioners upon reviewing of the Neat-Books, may upon better information take other Lands into charge, that are are left out of charge, and put any other Lands out of charge, that are given in charge.</item>
+               <item>7. That their Lordships will be pleased to reserve all the forfeited Lands within the Adventurers moyety of the ten Counties, and <hi>Lowth,</hi> for and towards the Adventurers satisfaction onely, until all and every the respective Adventurers be satisfied their particular Proportions, for the sums by them subscribed and paid, and until they be repaired for such Damages as they shall receive by errors or mistakes of Survey, as also by Incumbrances on their respective Lands.</item>
+               <item>Lastly, Your Petitioners do humbly desire, that such determination and final settlement of every Adventurers satisfaction, as shall be agreed upon by the above mentioned Commissioners authorized by your Lord<g ref="char:EOLhyphen"/>ships, may be approved of by your Lordships, and confirmed with the Seal of the Council of <hi>Ireland,</hi> and that the Survey whereupon the Cer<g ref="char:EOLhyphen"/>tificates for the same are grounded, may be attested by the Surveyor-General: And that your Lordships would, together with the said Ap<g ref="char:EOLhyphen"/>probation, give Warrant to the Sheriffs of the respective Counties to de<g ref="char:EOLhyphen"/>liver possession according to the said Certificates respectively.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204992:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
